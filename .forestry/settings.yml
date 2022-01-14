@@ -4,11 +4,16 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: document
+  path: content/_index.md
+  label: Landing Document
+  match: "**/*"
 - type: directory
-  path: content
+  path: content/homepage
   label: Pages
   create: all
   match: "*"
+  exclude: index.md
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
