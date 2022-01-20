@@ -8,16 +8,22 @@ That is the important part, right? You want to know what this festival is all ab
 
 ***
 
-## The Festival
+**What is it?**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Iaculis nunc sed augue lacus viverra vitae congue eu consequat. Molestie a iaculis at erat pellentesque adipiscing.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Iaculis nunc sed augue lacus viverra vitae congue eu consequat. Molestie a iaculis at erat pellentesque adipiscing. Enim ut sem viverra aliquet. Eget lorem dolor sed viverra ipsum. Amet nisl suscipit adipiscing bibendum est ultricies integer. Auctor urna nunc id cursus metus aliquam eleifend mi in. Feugiat vivamus at augue eget. Sit amet justo donec enim diam vulputate ut. Feugiat sed lectus vestibulum mattis ullamcorper velit sed. Libero justo laoreet sit amet cursus. Placerat orci nulla pellentesque dignissim enim sit amet. Feugiat scelerisque varius morbi enim. Sed turpis tincidunt id aliquet. Amet facilisis magna etiam tempor orci eu. Faucibus interdum posuere lorem ipsum dolor sit amet consectetur adipiscing.![](/images/festival_anansi_beatr.jpg)
-
-Amet venenatis urna cursus eget nunc scelerisque viverra mauris in. Lacinia quis vel eros donec. At consectetur lorem donec massa. Ridiculus mus mauris vitae ultricies leo integer malesuada nunc. A scelerisque purus semper eget duis at tellus at. Pharetra et ultrices neque ornare aenean euismod elementum. Faucibus pulvinar elementum integer enim neque volutpat ac tincidunt. Auctor eu augue ut lectus arcu. Sit amet commodo nulla facilisi. Aliquam etiam erat velit scelerisque. A lacus vestibulum sed arcu non odio euismod lacinia at.
-
-Non quam lacus suspendisse faucibus interdum. Sit amet nisl suscipit adipiscing. Dapibus ultrices in iaculis nunc sed augue lacus viverra vitae. Ac tincidunt vitae semper quis lectus nulla at. Aliquam nulla facilisi cras fermentum odio eu. Justo nec ultrices dui sapien eget mi. Dictumst quisque sagittis purus sit amet volutpat consequat mauris nunc. Tortor condimentum lacinia quis vel eros donec ac odio. Senectus et netus et malesuada. Mauris rhoncus aenean vel elit scelerisque mauris pellentesque pulvinar. Mauris ultrices eros in cursus turpis massa.
-
-Habitant morbi tristique senectus et netus et malesuada fames. Neque egestas congue quisque egestas diam in arcu. Lectus sit amet est placerat in. Viverra mauris in aliquam sem. Mauris cursus mattis molestie a iaculis at erat. Etiam sit amet nisl purus. Risus feugiat in ante metus dictum. Integer malesuada nunc vel risus commodo viverra. Egestas maecenas pharetra convallis posuere morbi leo urna molestie. A erat nam at lectus urna duis convallis. Magna eget est lorem ipsum dolor sit amet consectetur. Tincidunt praesent semper feugiat nibh. Non curabitur gravida arcu ac tortor dignissim convallis aenean et. Gravida cum sociis natoque penatibus et magnis dis. Elit pellentesque habitant morbi tristique senectus et netus. Libero volutpat sed cras ornare arcu dui. Gravida neque convallis a cras semper auctor neque vitae tempus.
-
-Tristique risus nec feugiat in fermentum posuere urna nec. Dolor morbi non arcu risus quis varius quam quisque id. Vel risus commodo viverra maecenas accumsan lacus. Ultrices tincidunt arcu non sodales neque sodales ut. Et sollicitudin ac orci phasellus egestas tellus. Blandit massa enim nec dui nunc mattis. Congue mauris rhoncus aenean vel elit scelerisque mauris. Aliquet nec ullamcorper sit amet risus nullam. Elementum eu facilisis sed odio morbi. Scelerisque viverra mauris in aliquam sem. Mattis molestie a iaculis at erat pellentesque adipiscing. Pharetra massa massa ultricies mi. Faucibus et molestie ac feugiat sed lectus vestibulum mattis. Sollicitudin tempor id eu nisl. A erat nam at lectus. Eget lorem dolor sed viverra ipsum nunc aliquet bibendum. Magna ac placerat vestibulum lectus mauris ultrices. At ultrices mi tempus imperdiet.
+This harvest festival is celebrated by the Ga people from the Greater Accra Region of Ghana.It begins with the sowing of millet by the traditional priests in May. After this, thirty-day ban on drumming is imposed on the land by the priests.The festival is highlighted at varying times by different quarters of the Ga tribe. The Ga-mashie group of the tribe will celebrate theirs' a little earlier than the La group.  
+  
+Homowo recounts the migration of the Gas and reveals their agricultural success in their new settlement. According to Ga oral tradition, a severe famine broke out among the people during their migration to present day Accra. They were inspired by the famine to embark on massive food production exercises which eventually yielded them bumper harvest.  
+  
+Their hunger ended and with great joy they "hooted at hunger" this is the meaning of the word homowo. The festival also celebrates fertility and the blessings of twins. It is referred to traditionally as ‘Yeyeeye’ or ‘Akwele Suma’ and takes place on a specific day when all twins from Ga Mashie (the Ga communities) are dressed in white and paraded around town.  
+  
+**Where is it?**  
+  
+The venue is still TBD. We are currently looking into Pioneer Square in Portland, Oregon.  
+  
+**When is it?**  
+  
+The actual date is still TBD. We are currently targeting early August, 2022.  
+  
+**What can you expect if you attend?  
+**  
+Dancing, drumming, vendors, celebration, ceremony, and more! More details will be coming very soon.
