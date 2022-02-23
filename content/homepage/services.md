@@ -18,11 +18,11 @@ Their hunger ended and with great joy they "hooted at hunger" this is the meanin
 
 **Where is it?**
 
-The venue is still TBD. We are currently looking into Pioneer Square in Portland, Oregon.
+King School Park in Portland, Oregon
 
 **When is it?**
 
-The actual date is still TBD. We are currently targeting early August, 2022.
+The festival will take place on **Saturday, August 13th, 2022**. The schedule and opening time is still TBD.
 
 **What can you expect if you attend?**
 
