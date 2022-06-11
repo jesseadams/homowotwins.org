@@ -22,7 +22,7 @@ King School Park in Portland, Oregon
 
 **When is it?**
 
-The festival will take place on **Saturday, August 13th, 2022**. The schedule and opening time is still TBD.
+The festival will take place on **Saturday, August 13th, 2022 from 1-5 PM**. The schedule is still being finalized and will be posted soon!
 
 **What can you expect if you attend?**
 
