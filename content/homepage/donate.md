@@ -9,4 +9,6 @@ header_menu: true
 
 Please donate at [GoFundMe](https://www.gofundme.com/f/2022-portland-homowo-twins-festival)
 
+{{< rawhtml >}}
 <div class="gfm-embed" data-url="https://www.gofundme.com/f/2022-portland-homowo-twins-festival/widget/medium/"></div><script defer src="https://www.gofundme.com/static/js/embed.js"></script>
+{{< /rawhtml >}}
