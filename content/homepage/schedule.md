@@ -2,9 +2,7 @@
 draft = true
 header_menu = true
 title = "Schedule"
-weight = "4"
+weight = "3"
 
 +++
-##### Homowo & Twins Foundation
-
-More details about the foundation coming soon!
+The final schedule will be posted prior to the event this Saturday. Please check back soon!
