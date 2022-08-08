@@ -4,7 +4,7 @@ weight: "5"
 header_menu: true
 
 ---
-{{<icon class="fa fa-envelope">}} [anansibeatallotey@gmail.com](mailto:anansibeatallotey@gmail.com)
+{{<icon class="fa fa-envelope">}} [info@homowotwins.org](mailto:info@homowotwins.org)
 
 {{<icon class="fa fa-phone">}} [+1503-236-8283](tel:+15032368283)
 
