@@ -16,9 +16,9 @@ Homowo recounts the migration of the Gas and reveals their agricultural success 
 
 Their hunger ended and with great joy they "hooted at hunger" this is the meaning of the word homowo. The festival also celebrates fertility and the blessings of twins. It is referred to traditionally as ‘Yeyeeye’ or ‘Akwele Suma’ and takes place on a specific day when all twins from Ga Mashie (the Ga communities) are dressed in white and paraded around town.
 
-**Where is it?**
+**What is the cost?**
 
-King School Park in Portland, Oregon
+Entry is free to everyone!
 
 **When is it?**
 
@@ -29,6 +29,16 @@ The festival will take place on **Saturday, August 13th, 2022 from 1-5 PM**. The
 * African Dancing
 * African Drumming
 * Vendors
+* Crafts
+* Food
 * Celebration and Ceremony
 
-More details will be coming very soon.
+**Where is it?**
+
+King School Park in Portland, Oregon
+
+{{< rawhtml >}}
+
+<iframe src="[https://www.google.com/maps/embed?pb=](https://www.google.com/maps/embed?pb= "https://www.google.com/maps/embed?pb=")!1m14!1m8!1m3!1d11174.648741758769!2d-122.6595742!3d45.5571208!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x88facdfc7c141e36!2sKing%20School%20Park!5e0!3m2!1sen!2sus!4v1660000573246!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+{{< /rawhtml >}}
