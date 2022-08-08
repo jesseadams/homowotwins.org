@@ -13,6 +13,6 @@ Time         | Event
 1:35-2:05 PM | Nii Ardey Allotey and Friends, featuring Brian L. Davis and members of Bloco Alegria, Lions of Batucada, and Pink Martini
 2:10-2:20 PM | Storytelling by Habiba Addo
 2:25-3:30 PM | Homowo Festival (food: kpekple – corn meal, okra, seasoned palm oil, palmnut soup)
-             | Dances: Bintin, Kpele, Otu, Tigari, Ngowula
+.            | Dances: Bintin, Kpele, Otu, Tigari, Ngowula
 3:30-4:00 PM | Storytelling by Habiba Addo, Drum jam
 4:05-5:00 PM | Virginia Lopez and Melao de Cuba
