@@ -22,7 +22,7 @@ Entry is free to everyone!
 
 **When is it?**
 
-The festival will take place on **Saturday, August 13th, 2022 from 1-5 PM**. The schedule is still being finalized and will be posted soon!
+The festival will take place on **Saturday, August 13th, 2022 from 1-5 PM**. 
 
 **What can you expect if you attend?**
 
