@@ -1,6 +1,6 @@
 ---
 title: The Festival
-weight: "2"
+weight: 2
 header_menu: true
 
 ---

@@ -1,9 +1,9 @@
-+++
-header_menu = true
-title = "Schedule"
-weight = "3"
+---
+header_menu: true
+title: "Schedule"
+weight: 3
 
-+++
+---
 
 | Time | Event |
 | --- | --- |

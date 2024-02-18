@@ -1,6 +1,6 @@
 ---
 title: Homowo & Twins Foundation
-weight: "5"
+weight: 5
 header_menu: true
 
 ---

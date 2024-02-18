@@ -34,7 +34,7 @@ export default defineConfig({
         label: "Landing Graphic",
         name: "landing_graphic",
         path: "content",
-        frontmatterFormat: "toml",
+        frontmatterFormat: "yaml",
         ui: {
           allowedActions: {
             create: false,
@@ -75,7 +75,11 @@ export default defineConfig({
             name: "weight",
             type: "number",
             label: "Weight",
-            description: "The order on the page"
+            description: "The order on the page",
+            ui: {
+              parse: (val) => parseFloat(val),
+              format: (val) => parseFloat(val)
+            }
           },
           {
             name: "header_menu",
