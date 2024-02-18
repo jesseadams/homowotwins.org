@@ -2,9 +2,9 @@
 title: The Festival
 weight: 2
 header_menu: true
-
 ---
-{{< youtube YXw57FJ3HQE >}}
+
+{{\< youtube YXw57FJ3HQE >}}
 
 ***
 
@@ -22,7 +22,7 @@ Entry is free to everyone!
 
 **When is it?**
 
-The festival will take place on **Saturday, August 13th, 2022 from 1-5 PM**. 
+The festival will take place on **Saturday, August 3, 2024**.
 
 **What can you expect if you attend?**
 
@@ -37,10 +37,11 @@ The festival will take place on **Saturday, August 13th, 2022 from 1-5 PM**.
 
 King School Park in Portland, Oregon
 
-{{< rawhtml >}}
+{{\< rawhtml >}}
+
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11174.648741758769!2d-122.6595742!3d45.5571208!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x88facdfc7c141e36!2sKing%20School%20Park!5e0!3m2!1sen!2sus!4v1660000573246!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-{{< /rawhtml >}}
+{{\< /rawhtml >}}
 
 **Vendor Instructions**
 
