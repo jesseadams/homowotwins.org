@@ -34,7 +34,7 @@ export default defineConfig({
         label: "Landing Graphic",
         name: "landing_graphic",
         path: "content",
-        frontmatterFormat: "yaml",
+        frontmatterFormat: "toml",
         ui: {
           allowedActions: {
             create: false,
