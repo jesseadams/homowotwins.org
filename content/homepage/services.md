@@ -22,7 +22,7 @@ Entry is free to everyone!
 
 **When is it?**
 
-The festival will take place on **Saturday, August 3, 2024**.
+The festival will take place on **Sunday, September 22, 2024 at 1 PM Pacific Time.**
 
 **What can you expect if you attend?**
 
