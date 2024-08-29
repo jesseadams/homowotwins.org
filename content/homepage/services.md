@@ -4,8 +4,6 @@ weight: 2
 header_menu: true
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YXw57FJ3HQE?si=1kKZQnlWponyo8lR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>\</iframe>
-
 ***
 
 **What is it?**
@@ -22,7 +20,7 @@ Entry is free to everyone!
 
 **When is it?**
 
-The festival will take place on **Sunday, September 22, 2024 at 1 PM Pacific Time.**
+The festival will take place on **Sunday, September 22, 2024 from 1-5 PM Pacific Time.**
 
 **What can you expect if you attend?**
 
@@ -35,9 +33,9 @@ The festival will take place on **Sunday, September 22, 2024 at 1 PM Pacific Tim
 
 **Where is it?**
 
-King School Park in Portland, Oregon
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11174.648741758769!2d-122.6595742!3d45.5571208!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x88facdfc7c141e36!2sKing%20School%20Park!5e0!3m2!1sen!2sus!4v1660000573246!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+IRCO Hall in Portland, Oregon\
+10323 NE Glisan\
+Portland, OR 97220
 
 **Vendor Instructions**
 
