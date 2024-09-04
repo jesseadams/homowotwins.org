@@ -3,4 +3,4 @@ title: Welcome
 weight: 1
 ---
 
-New details coming soon!
+![](</images/Screenshot 2024-09-04 at 7.52.09 AM.png>)
