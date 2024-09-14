@@ -37,6 +37,10 @@ IRCO Hall in Portland, Oregon\
 10323 NE Glisan\
 Portland, OR 97220
 
-**Vendor Instructions**
-
-If you are a vendor at the festival please bring a signed copy of the [Nonfood Vendor Agreement](/images/htf_nonfood_vendor-agreement_2022.pdf) and $75 during the day of the event.
+Line Up\
+\
+Nii Ardey and Friends\
+Habiba\
+Twins Festival\
+Homowo\
+[Jujuba](https://jujuba.org/ "Jujuba")
