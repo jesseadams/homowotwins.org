@@ -37,7 +37,7 @@ IRCO Hall in Portland, Oregon\
 10323 NE Glisan\
 Portland, OR 97220
 
-Line Up\
+**Line Up**\
 \
 Nii Ardey and Friends\
 Habiba\
