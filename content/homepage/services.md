@@ -26,8 +26,6 @@ The festival will take place on **Sunday, September 22, 2024 from 1-5 PM Pacific
 
 * African Dancing
 * African Drumming
-* Vendors
-* Crafts
 * Food
 * Celebration and Ceremony
 
