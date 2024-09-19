@@ -1,8 +1,10 @@
 ---
-title: About Nii Ardey Allotey
+title: Homowo & Twins Foundation Mission / About Nii Ardey Allotey
 weight: 5
 header_menu: true
 ---
+
+The mission of the Homowo and Twins Foundation is to promote awareness of the culture of Ghana through the production of an annual Homowo and Twins Festival, including drumming, dancing, handicrafts, and food.
 
 Nii Ardey Allotey has extensive experience performing and teaching traditional dancing, singing, and drumming of Ghana. He is a member of the Ga tribe and grew up in the capital of Accra. The family house was a training ground for current and aspiring master drummers and apprentices. 
 
